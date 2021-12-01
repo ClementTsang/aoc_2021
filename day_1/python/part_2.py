@@ -3,7 +3,7 @@
 count = 0
 
 window = []
-with open("input.txt") as file:
+with open("../input.txt") as file:
     lines = file.readlines()
 
     for line in lines:
