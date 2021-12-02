@@ -1,13 +1,13 @@
 # aoc_2021
 
-Personal AoC 2021 work.
+Personal AoC 2021 work, feel free to reference if you don't mind the jank.
 
-Going to try to use a different language every day (assuming I can stick around for all days).
+Going to try to use a different language every day (assuming I can stick around for all days) as a bit of a challenge.
 
 ---
 
-- [Day 1](./day_01): Nim (originally did in Python)
-- [Day 2](./day_02):
+- [Day 1](./day_01): Nim (originally did in Python before I decided to do different languages every day)
+- [Day 2](./day_02): Prolog
 - [Day 3](./day_03):
 - [Day 4](./day_04):
 - [Day 5](./day_05):

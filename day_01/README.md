@@ -1,7 +1,6 @@
 # Day 1
 
-Did this in [Nim](https://nim-lang.org/), after originally taking a crack at it in Python. I tried to not use too
-many libraries.
+Did this in [Nim](https://nim-lang.org/), originally did it in Python.
 
 Compile and run from this directory with:
 
