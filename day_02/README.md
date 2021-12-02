@@ -1,9 +1,10 @@
 # Day 2
 
-My sole experience with Prolog is like one module I took talking about it in the study of programming languages... yeah,
-feast your eyes on some of the most cursed Prolog code if you dare read this.
+My sole experience with [Prolog](https://en.wikipedia.org/wiki/Prolog) is like one module I took talking about it in
+the study of programming languages... yeah, feast your eyes on some of the most cursed Prolog code if you dare read
+through this.
 
-To run (I used SWI-Prolog), for `part_1.pl`:
+To run (I used [SWI-Prolog](https://www.swi-prolog.org/)), for `part_1.pl`:
 
 ```bash
 # In shell
