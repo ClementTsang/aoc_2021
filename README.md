@@ -9,7 +9,7 @@ Going to try to use a different language every day (assuming I can stick around 
 - [Day 1](./day_01): Nim (originally did in Python before I decided to do different languages every day)
 - [Day 2](./day_02): Prolog
 - [Day 3](./day_03): Haskell
-- [Day 4](./day_04):
+- [Day 4](./day_04): F#
 - [Day 5](./day_05):
 - [Day 6](./day_06):
 - [Day 7](./day_07):
