@@ -4,6 +4,10 @@ Personal AoC 2021 work, feel free to reference if you don't mind the jank.
 
 Going to try to use a different language every day (assuming I can stick around for all days) as a bit of a challenge.
 
+Note that for most, if not all days, _none of the code is going to be great_ - I'm using this as a learning experience
+for a lot of the languages (for many it will be my very first time using them), and my goal is just getting to the
+solutions, so it will only be as clean, idiomatic, and efficient as I need it to be to do so.
+
 ---
 
 - [Day 1](./day_01): Nim (originally did in Python before I decided to do different languages every day)

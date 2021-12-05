@@ -1,7 +1,7 @@
 # Day 5
 
 PHP day today. I've never written PHP before, but it was simple enough to figure out what to use - the joys of being
-used to imperative languages, I guess.
+used to C-like imperative languages, I guess.
 
 One thing that I'll admit got me was that I tried to do something silly like:
 
