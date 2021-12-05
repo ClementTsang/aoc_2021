@@ -10,7 +10,7 @@ Going to try to use a different language every day (assuming I can stick around 
 - [Day 2](./day_02): Prolog
 - [Day 3](./day_03): Haskell
 - [Day 4](./day_04): F#
-- [Day 5](./day_05):
+- [Day 5](./day_05): PHP
 - [Day 6](./day_06):
 - [Day 7](./day_07):
 - [Day 8](./day_08):
