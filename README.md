@@ -15,7 +15,7 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 3](./day_03): Haskell
 - [Day 4](./day_04): F#
 - [Day 5](./day_05): PHP
-- [Day 6](./day_06):
+- [Day 6](./day_06): Elm
 - [Day 7](./day_07):
 - [Day 8](./day_08):
 - [Day 9](./day_09):
