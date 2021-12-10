@@ -19,7 +19,7 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 7](./day_07): GNU Smalltalk
 - [Day 8](./day_08): Turing
 - [Day 9](./day_09): Lua
-- [Day 10](./day_10):
+- [Day 10](./day_10): C#
 - [Day 11](./day_11):
 - [Day 12](./day_12):
 - [Day 13](./day_13):
