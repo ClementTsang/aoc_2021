@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-#frozen_string_literal : true
+# frozen_string_literal : true
 
 require "set"
 
@@ -51,9 +51,7 @@ def part_two(file)
             return 1
         end
         
-        
         p = path.clone
-        
         p << name
     
         return (cave[name]&.sum do |c|
@@ -76,8 +74,6 @@ def part_two(file)
             else
                 0    
             end
-            
-
         end || 0)
     end
 
