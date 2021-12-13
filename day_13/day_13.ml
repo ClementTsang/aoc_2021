@@ -173,7 +173,7 @@ let part_two file =
           if x > max_x then arr
           else (
             let s = match Hashtbl.find set (x, y) with
-            | Some(_) -> "*"
+            | Some(_) -> "█"
             | None -> " "
             in
             build_row (x + 1) y (arr @ [s])
