@@ -1,0 +1,10 @@
+(executable
+ (name day_13)
+ (libraries base core str)
+ (preprocess
+  (pps ppx_jane)))
+
+(env
+ (dev
+  (flags
+   (:standard -w -33))))

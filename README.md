@@ -22,7 +22,7 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 10](./day_10): C#
 - [Day 11](./day_11): JavaScript
 - [Day 12](./day_12): Ruby
-- [Day 13](./day_13):
+- [Day 13](./day_13): OCaml
 - [Day 14](./day_14):
 - [Day 15](./day_15):
 - [Day 16](./day_16):
