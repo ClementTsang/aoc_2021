@@ -24,7 +24,7 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 12](./day_12): Ruby
 - [Day 13](./day_13): OCaml
 - [Day 14](./day_14): Racket
-- [Day 15](./day_15):
+- [Day 15](./day_15): Zig
 - [Day 16](./day_16):
 - [Day 17](./day_17):
 - [Day 18](./day_18):
