@@ -28,7 +28,7 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 16](./day_16): Dart
 - [Day 17](./day_17): Bash
 - [Day 18](./day_18): Go
-- [Day 19](./day_19):
+- [Day 19](./day_19): Rust
 - [Day 20](./day_20):
 - [Day 21](./day_21):
 - [Day 22](./day_22):
