@@ -30,7 +30,7 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 18](./day_18): Go
 - [Day 19](./day_19): Rust
 - [Day 20](./day_20): C
-- [Day 21](./day_21):
+- [Day 21](./day_21): C++
 - [Day 22](./day_22):
 - [Day 23](./day_23):
 - [Day 24](./day_24):
