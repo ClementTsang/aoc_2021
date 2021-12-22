@@ -31,7 +31,7 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 19](./day_19): Rust
 - [Day 20](./day_20): C
 - [Day 21](./day_21): C++
-- [Day 22](./day_22):
+- [Day 22](./day_22): Java
 - [Day 23](./day_23):
 - [Day 24](./day_24):
 - [Day 25](./day_25):
