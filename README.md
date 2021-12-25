@@ -34,4 +34,4 @@ solutions, so it will only be as clean, idiomatic, and efficient as I need it to
 - [Day 22](./day_22): Java
 - [Day 23](./day_23): By hand
 - [Day 24](./day_24): Kotlin
-- [Day 25](./day_25):
+- [Day 25](./day_25): Python
